@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559115153759",
+    "firebase_url": "https://chatbot-d83ad.firebaseio.com",
+    "project_id": "chatbot-d83ad",
+    "storage_bucket": "chatbot-d83ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559115153759:android:6fd3524147e0affcb586ea",
+        "android_client_info": {
+          "package_name": "com.binarycircle.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559115153759-2vvnr5drg351mtmhnsa0it2333f5kb4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.binarycircle.chatbot",
+            "certificate_hash": "1a9e478d776e61a0336eef81aa3524566e14b42c"
+          }
+        },
+        {
+          "client_id": "559115153759-p6mqv2152tfi8sf1d7hosoq9du1mct98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyyfJUx4aOS5KBGXt19xrgHL5jO9_BA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559115153759-p6mqv2152tfi8sf1d7hosoq9du1mct98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
